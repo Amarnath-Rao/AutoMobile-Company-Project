@@ -56,7 +56,7 @@ This is the Admin page of Automobile Company. There are four buttons below them
 4. View Orders button is to view the orders kept by the customer.
 
 
-Customer Page:
+Customer Page
  
 This is the Customer Page of Automobile Company. There are three buttons below them
 ![image](https://user-images.githubusercontent.com/96937608/222948230-66e9bbf4-41c9-4dee-887d-1afdd737999b.png)
